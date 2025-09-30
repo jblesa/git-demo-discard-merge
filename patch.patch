@@ -1,0 +1,14 @@
+diff --git a/FeatureB.cpp b/FeatureB.cpp
+new file mode 100644
+index 0000000..6c0f0b1
+--- /dev/null
++++ b/FeatureB.cpp
+@@ -0,0 +1 @@
++class FeatureB {};
+diff --git a/payloadB.cpp b/payloadB.cpp
+new file mode 100644
+index 0000000..e90e249
+--- /dev/null
++++ b/payloadB.cpp
+@@ -0,0 +1 @@
++class PayloadB {};
